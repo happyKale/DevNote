@@ -8,3 +8,7 @@
 
 ### CSS
 1. [Box-model](https://github.com/happyKale/PreparingForTheInterview/blob/main/css/Box-model.md)
+
+
+### React
+1. [가상돔](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EA%B0%80%EC%83%81%EB%8F%94.md)
