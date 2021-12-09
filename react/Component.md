@@ -5,7 +5,7 @@
 <br/><br/>
 
 ### state
-component가 가지고 있는 데이터이다.
+component가 가지고 있는 데이터이다. component에 들어있는 데이터를 나타내는 오브젝트이다.
 
 ### props
 component가 부모 component로부터 받아온 데이터이다. 자식 component는 부모로부터 받은 props를 수정할 수 없다.
@@ -38,6 +38,8 @@ component가 부모 component로부터 받아온 데이터이다. 자식 compone
   <br/><br/>
   
 ## 클래스형 Component
+  
+ #### state의 데이터가 변경되면 자동으로 render 함수가 호출된다.
   
   ```javascript
       
