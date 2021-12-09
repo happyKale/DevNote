@@ -13,3 +13,4 @@
 
 ### React
 1. [가상돔](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EA%B0%80%EC%83%81%EB%8F%94.md)
+2. [라이프 사이클](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)
