@@ -16,3 +16,4 @@
 2. [라이프 사이클](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)
 3. [Component](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/Component.md)
 4. [ref](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/Ref.md)
+5. [state](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/State.md)
