@@ -66,7 +66,13 @@ CI를 사용한다면 우리 프로젝트의 대부분의 소스코드들이 자
 <br/><br/><br/>
 
 
+## 🧰 CI/CD를 위한 툴들
+- Jenkins
+- Buildkite
+- Github Actions
+- Bitbucket pipelines
+- Gitlab CI/CD
 
-
+<br/><br/><br/>
 
 
