@@ -10,6 +10,11 @@
 ### CSS
 1. [Box-model](https://github.com/happyKale/PreparingForTheInterview/blob/main/css/Box-model.md)
 
+### Javascript
+1. [javascript는 어떤 언어인가](https://github.com/happyKale/PreparingForTheInterview/blob/main/javascript/javascript%EB%8A%94%20%EC%96%B4%EB%96%A4%20%EC%96%B8%EC%96%B4%EC%9D%B8%EA%B0%80.md)
+2. [이벤트 버블링](https://github.com/happyKale/PreparingForTheInterview/blob/main/javascript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B2%84%EB%B8%94%EB%A7%81.md)
+
+
 
 ### React
 1. [가상돔](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EA%B0%80%EC%83%81%EB%8F%94.md)
