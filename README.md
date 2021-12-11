@@ -22,3 +22,5 @@
 3. [Component](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/Component.md)
 4. [ref](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/Ref.md)
 5. [state](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/State.md)
+6. [useEffect](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/useEffect.md)
+7. [라우팅](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
