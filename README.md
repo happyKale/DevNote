@@ -24,3 +24,4 @@
 5. [state](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/State.md)
 6. [useEffect](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/useEffect.md)
 7. [라우팅](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
+8. [리덕스](https://github.com/happyKale/PreparingForTheInterview/blob/main/react/%EB%A6%AC%EB%8D%95%EC%8A%A4.md)
