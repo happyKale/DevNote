@@ -1,6 +1,9 @@
-# 1계층 | Physical Layer
+#### 참고자료: 테코톡 [https://www.youtube.com/watch?v=1pfTxp25MA8](https://www.youtube.com/watch?v=1pfTxp25MA8)
+- 히히언니가 강의한 내용을 적어보았습니다!
+ 
+<br/>
 
-참고자료: 테코톡 [https://www.youtube.com/watch?v=1pfTxp25MA8](https://www.youtube.com/watch?v=1pfTxp25MA8)
+# 1계층 | Physical Layer
 
 1계층부터 순서대로 설명!
 
