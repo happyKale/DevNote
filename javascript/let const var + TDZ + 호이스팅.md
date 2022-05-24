@@ -1,3 +1,7 @@
+#### 모던 자바스크립트 Deep Dive와 모던 자바스크립트 핵심 가이드의 내용을 가져온 것입니다!
+
+<br/>
+
 # let / const / var + TDZ + 호이스팅
 
 ES6부터 let과 const가 도입되었다.
